@@ -11,14 +11,14 @@
             "id": "47cc0d2d17d2f9df",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Obsidian/Shrimp Heaven/Roles.md",
-                "bFile": "Obsidian/Shrimp Heaven/Roles.md",
-                "aRef": ""
+                "file": "TODO LIST.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Roles  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "TODO LIST"
             }
           }
         ]
