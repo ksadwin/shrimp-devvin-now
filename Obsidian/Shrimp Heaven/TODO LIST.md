@@ -1,0 +1,3 @@
+- [ ] [[Software installs#more info to come]]: fill out obsidian sync instructions
+- [ ] [[Roles]]: create document outlining roles
+- [ ] [[Character Index]]: create character index & individual pages
