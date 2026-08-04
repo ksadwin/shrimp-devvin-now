@@ -25,14 +25,14 @@
             "id": "6da7df60704a64e8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "TODO LIST.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Obsidian/Shrimp Heaven/TODO LIST.md",
+                "bFile": "Obsidian/Shrimp Heaven/TODO LIST.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "TODO LIST"
+              "icon": "diff",
+              "title": "Diff: TODO LIST  (Working Tree)"
             }
           }
         ],
@@ -202,8 +202,8 @@
   },
   "active": "6da7df60704a64e8",
   "lastOpenFiles": [
-    "Software installs.md",
     "TODO LIST.md",
+    "Software installs.md",
     "About Git.md"
   ]
 }
