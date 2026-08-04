@@ -1,3 +1,4 @@
 - [ ] [[Software installs#more info to come]]: fill out obsidian sync instructions
+	- [ ] how to use subdir of git repo as obsidian dir?
 - [ ] [[Roles]]: create document outlining roles
 - [ ] [[Character Index]]: create character index & individual pages
