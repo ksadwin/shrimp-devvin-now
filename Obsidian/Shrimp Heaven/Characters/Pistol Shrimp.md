@@ -1,0 +1,1 @@
+failbutch lesbian cowboy, nickname scamp(i) (in italian, scampi does not actually mean shrimp)

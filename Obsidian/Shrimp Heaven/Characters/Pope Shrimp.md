@@ -1,0 +1,1 @@
+casual suggestion by pete because the shape of the shrimp's head lookin like a pope hat

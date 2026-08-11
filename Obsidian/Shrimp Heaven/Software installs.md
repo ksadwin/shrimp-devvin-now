@@ -14,7 +14,7 @@ The most beginner-friendly way to interact with repos is by using the [GitHub De
 
 Obsidian works within **vaults**, which (much like with Git repos) is just a fancy word for a tracked folder. We'll be sharing a vault within our repo in the folder **Obsidian**, using a Git integration.
 ## Obsidian Community Plugin for Git
-Once you've installed Obsidian and played around with the default vault it created for you, you can [follow the installation instructions](https://publish.obsidian.md/git-doc/Installation) for the 3^rd^ party Git plugin. Note that it may require you to install a standalone, base version of Git separate from GitHub Desktop.
+Once you've installed Obsidian and played around with the default vault it created for you, you can [follow the installation instructions](https://publish.obsidian.md/git-doc/Installation) for the 3rd party Git plugin. Note that it may require you to install a standalone, base version of Git separate from GitHub Desktop.
 
 You may need to restart Obsidian for the changes to take place. If you haven't already cloned the repo to your local system, you should be able to use the new plugin to do so; it will be the new *Open Git source control* icon just under the top-leftmost Collapse icon.
 ### more info to come
