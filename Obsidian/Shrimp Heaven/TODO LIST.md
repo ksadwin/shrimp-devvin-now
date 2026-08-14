@@ -1,5 +1,6 @@
 - [ ] [[Software installs#more info to come]]: fill out obsidian sync instructions
 	- [ ] how to use subdir of git repo as obsidian dir?
-- [x] [[Roles]]: create document outlining roles
-- [x] [[Characters]]: create character index & individual pages
+	- [ ] does everybody like obsidian..........
+- [x] Roles: create document outlining roles
+- [x] Characters: create character index & individual pages
 - [ ] Establish pipeline for art [[Art Direction]]
