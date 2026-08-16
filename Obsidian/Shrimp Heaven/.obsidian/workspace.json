@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO LIST.md",
+                "file": "Story Direction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO LIST"
+              "title": "Story Direction"
             }
           }
         ]
@@ -187,9 +187,9 @@
   },
   "active": "769754e539597fbd",
   "lastOpenFiles": [
+    "TODO LIST.md",
     "Project Plan.md",
     "Story Direction.md",
-    "TODO LIST.md",
     "Overall misc. game thoughts.md",
     "Admin",
     "Art Direction.md",

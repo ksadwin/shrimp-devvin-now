@@ -1,5 +1,5 @@
 # Story beats
-- Protest endless shrimp at Red Lobster (but also can we go get some after the protest (shrimps is scavengers))
+- Protest endless shrimp at ~~Red Lobster~~ Crimson Crustacean (but also can we go get some after the protest (shrimps is scavengers))
 - Fever dream (where you see humansona of the shrimp coming to take care of you)
 # Endings/routes
 
