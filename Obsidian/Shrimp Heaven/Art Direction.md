@@ -1,5 +1,5 @@
 # Our Artists
-- Coda: surely they want to do lineart... right...
+- Coda: sketch/lineart
 - Krill: render
 - Jess: sketch/line/flats
 # Pipeline

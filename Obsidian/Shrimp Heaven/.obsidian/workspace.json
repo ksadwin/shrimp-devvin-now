@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story Direction.md",
+                "file": "Sprints/Sprint 1 (Aug 17 - Aug 31).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Story Direction"
+              "title": "Sprint 1 (Aug 17 - Aug 31)"
             }
           }
         ]
@@ -187,12 +187,17 @@
   },
   "active": "769754e539597fbd",
   "lastOpenFiles": [
-    "TODO LIST.md",
     "Project Plan.md",
+    "Sprints/Sprint 1 (Aug 17 - Aug 31).md",
+    "Sprints",
+    "Meeting Minutes/August 16.md",
+    "Meeting Minutes/August 10.md",
+    "Art Direction.md",
+    "Meeting Minutes",
+    "TODO LIST.md",
     "Story Direction.md",
     "Overall misc. game thoughts.md",
     "Admin",
-    "Art Direction.md",
     "Characters/MC.md",
     "Characters/Characters.md",
     "Characters/Sexy Shrimp.md",
