@@ -4,6 +4,10 @@ cache
 env 
 _wfCache
 
-log.txt 
-errors.txt 
-traceback.txt
+*/log.txt 
+*/errors.txt 
+*/traceback.txt
+*/text_overflow.txt
+
+renpy-8.5.3-sdk/the_question/*
+renpy-8.5.3-sdk/tutorial/*
