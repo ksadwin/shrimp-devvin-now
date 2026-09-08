@@ -9,5 +9,5 @@ _wfCache
 */traceback.txt
 */text_overflow.txt
 
-renpy-8.5.3-sdk/the_question/*
-renpy-8.5.3-sdk/tutorial/*
+game/renpy-8.5.3-sdk/the_question/*
+game/renpy-8.5.3-sdk/tutorial/*
