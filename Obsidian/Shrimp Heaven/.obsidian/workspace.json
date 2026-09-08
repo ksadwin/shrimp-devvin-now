@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sprints/Sprint 1 (Aug 17 - Aug 31).md",
+                "file": "Writing/Story Direction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sprint 1 (Aug 17 - Aug 31)"
+              "title": "Story Direction"
             }
           }
         ]
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Software installs.md",
+                "file": "Writing/Story Direction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software installs.md",
+                "file": "Writing/Story Direction.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -185,20 +185,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "769754e539597fbd",
+  "active": "211e9ca9c240b6df",
   "lastOpenFiles": [
-    "Project Plan.md",
-    "Sprints/Sprint 1 (Aug 17 - Aug 31).md",
-    "Sprints",
-    "Meeting Minutes/August 16.md",
-    "Meeting Minutes/August 10.md",
+    "Characters/MC.md",
+    "Characters/Royal Red.md",
+    "Writing/Story Direction.md",
+    "Writing/Timeline.md",
     "Art Direction.md",
+    "Characters/Pistol Shrimp.md",
+    "Sprints/Sprint 1 (Aug 17 - Aug 31).md",
+    "Writing",
+    "Meeting Minutes/September 7 - Writers' Retreat.md",
+    "Meeting Minutes/August 16.md",
+    "Project Plan.md",
+    "Sprints",
+    "Meeting Minutes/August 10.md",
     "Meeting Minutes",
     "TODO LIST.md",
-    "Story Direction.md",
     "Overall misc. game thoughts.md",
     "Admin",
-    "Characters/MC.md",
     "Characters/Characters.md",
     "Characters/Sexy Shrimp.md",
     "Characters/Tiger Shrimp.md",
@@ -208,7 +213,6 @@
     "Characters/Ghost Shrimp.md",
     "Characters/Vampire Shrimp.md",
     "Characters/Brine Shrimp.md",
-    "Characters/Pistol Shrimp.md",
     "Characters/Pope Shrimp.md",
     "Characters",
     "Admin/About Git.md"
