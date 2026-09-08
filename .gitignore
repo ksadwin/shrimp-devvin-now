@@ -1,0 +1,13 @@
+saves 
+tmp 
+cache 
+env 
+_wfCache
+
+*/log.txt 
+*/errors.txt 
+*/traceback.txt
+*/text_overflow.txt
+
+game/renpy-8.5.3-sdk/the_question/*
+game/renpy-8.5.3-sdk/tutorial/*
