@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO LIST.md",
+                "file": "Meeting Minutes/September 19 - coders unite.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO LIST"
+              "title": "September 19 - coders unite"
             }
           }
         ]
@@ -187,9 +187,12 @@
   },
   "active": "769754e539597fbd",
   "lastOpenFiles": [
+    "Admin/Roles.md",
+    "Admin/About Git.md",
+    "Admin/Software installs.md",
+    "TODO LIST.md",
     "Meeting Minutes/September 19 - coders unite.md",
     "Project Plan.md",
-    "TODO LIST.md",
     "Meeting Minutes/September 7 - Writers' Retreat.md",
     "Meeting Minutes/August 16.md",
     "Writing/Story Direction.md",
@@ -208,14 +211,11 @@
     "Characters/Characters.md",
     "Characters/Sexy Shrimp.md",
     "Characters/Tiger Shrimp.md",
-    "Admin/Roles.md",
     "Characters/Mantis Shrimp.md",
-    "Admin/Software installs.md",
     "Characters/Ghost Shrimp.md",
     "Characters/Vampire Shrimp.md",
     "Characters/Brine Shrimp.md",
     "Characters/Pope Shrimp.md",
-    "Characters",
-    "Admin/About Git.md"
+    "Characters"
   ]
 }
