@@ -9,3 +9,5 @@
 4. Meetings per shrimp timeline to outline story beats
 5. ???
 6. profit
+
+# TRACK CURRENT OPEN ITEMS IN [[TODO LIST]]!
